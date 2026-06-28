@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DurvishKumar/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/DurvishKumar/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/DurvishKumar/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/DurvishKumar/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DurvishKumar/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/DurvishKumar/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/DurvishKumar/DSA_Problems/tree/master/0217-contains-duplicate) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DurvishKumar/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/DurvishKumar/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DurvishKumar/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
