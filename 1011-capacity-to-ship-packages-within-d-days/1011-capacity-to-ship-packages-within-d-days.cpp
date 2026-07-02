@@ -2,12 +2,12 @@ class Solution {
 public:
     int countdays(vector<int>& weights, int capacity){
         int count=1;
-        long long sum=0;
+        long long load=0;
         for(int i=0; i<weights.size(); i++){
-            sum += weights[i];
-            if(sum>capacity){
+            load += weights[i];
+            if(load>capacity){
                 count++;
-                sum = weights[i];
+                load = weights[i];
             }
         }
         return count;
