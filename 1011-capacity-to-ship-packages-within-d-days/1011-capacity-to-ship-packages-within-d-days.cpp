@@ -20,9 +20,9 @@ public:
         return sum;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int ans = 1;
         long long low = *max_element(weights.begin(), weights.end());
         long long high = sum_of_array(weights);
+        int ans = high;
         while (low<=high){
             long long mid = low + ( high - low ) / 2;
             int CountDays = countdays(weights, mid);
