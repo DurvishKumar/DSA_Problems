@@ -4,7 +4,6 @@ public:
         int i = num.size()-1;
         while(i>=0){
             if((num[i]-'0')%2==1){
-                int valid = i;
                 break;
             }
                 i--;
