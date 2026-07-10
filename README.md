@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/DurvishKumar/DSA_Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/DurvishKumar/DSA_Problems/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/DurvishKumar/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -163,11 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/DurvishKumar/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/DurvishKumar/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/DurvishKumar/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DurvishKumar/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/DurvishKumar/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
