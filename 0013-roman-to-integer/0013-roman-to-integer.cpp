@@ -13,7 +13,7 @@ public:
         int ans = 0;
         for(int i=0; i<s.size(); i++){
             int value = roman[s[i]];
-            if(value < roman[s[i+1]] && i<s.size()-1) ans -= value;
+            if(i<s.size()-1 && value < roman[s[i+1]]) ans -= value;
             else ans += value;
         }
         return ans;
