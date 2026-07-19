@@ -13,7 +13,6 @@ public:
     ListNode* rotateRight(ListNode* head, int k) {
         if(head == nullptr || head->next == nullptr || k == 0) return head;
         ListNode* Tail = head;
-        ListNode* temp = head;
         int length = 1;
         while(Tail->next){
             length++;
@@ -21,9 +20,9 @@ public:
         }
         k = k % length;
         if(k == 0) return head;
-        int last = length-k-1;
-        while(last){
-            last--;
+        int splitIndex = length-k;
+        ListNode* temp = head;
+        for(int i = 1; i < splitIndex; i++){
             temp = temp->next;
         }
         ListNode* newHead = temp->next;
