@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/DurvishKumar/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DurvishKumar/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DurvishKumar/DSA_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1472-design-browser-history](https://github.com/DurvishKumar/DSA_Problems/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DurvishKumar/DSA_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/DurvishKumar/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DurvishKumar/DSA_Problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DurvishKumar/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/DurvishKumar/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/DurvishKumar/DSA_Problems/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DurvishKumar/DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DurvishKumar/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DurvishKumar/DSA_Problems/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DurvishKumar/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/DurvishKumar/DSA_Problems/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DurvishKumar/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -258,4 +261,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/DurvishKumar/DSA_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/DurvishKumar/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DurvishKumar/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/DurvishKumar/DSA_Problems/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/DurvishKumar/DSA_Problems/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/DurvishKumar/DSA_Problems/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
