@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/DurvishKumar/DSA_Problems/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/DurvishKumar/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DurvishKumar/DSA_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DurvishKumar/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DurvishKumar/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DurvishKumar/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DurvishKumar/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/DurvishKumar/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DurvishKumar/DSA_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DurvishKumar/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DurvishKumar/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DurvishKumar/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DurvishKumar/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/DurvishKumar/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/DurvishKumar/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/DurvishKumar/DSA_Problems/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DurvishKumar/DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DurvishKumar/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DurvishKumar/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DurvishKumar/DSA_Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
