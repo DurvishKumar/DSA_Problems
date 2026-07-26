@@ -27,8 +27,8 @@ public:
         for(int j = 0; j < m; j++){
             int sum = 0;
             for(int i = 0; i < n; i++){
-                if(matrix[i][j] == '1') sum++;
-                else sum = 0;
+                sum += matrix[i][j] - '0';
+                if(matrix[i][j] == '0')sum = 0;
                 preSum[i][j] = sum;
             }
         }
