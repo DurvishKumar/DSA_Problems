@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DurvishKumar/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/DurvishKumar/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/DurvishKumar/DSA_Problems/tree/master/0493-reverse-pairs) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DurvishKumar/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/DurvishKumar/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DurvishKumar/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DurvishKumar/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -325,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/DurvishKumar/DSA_Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/DurvishKumar/DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/DurvishKumar/DSA_Problems/tree/master/2104-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
