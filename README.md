@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DurvishKumar/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DurvishKumar/DSA_Problems/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/DurvishKumar/DSA_Problems/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/DurvishKumar/DSA_Problems/tree/master/1175-prime-arrangements) |
 | [1903-largest-odd-number-in-string](https://github.com/DurvishKumar/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
