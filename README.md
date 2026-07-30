@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurvishKumar/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/DurvishKumar/DSA_Problems/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/DurvishKumar/DSA_Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/DurvishKumar/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0239-sliding-window-maximum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DurvishKumar/DSA_Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DurvishKumar/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DurvishKumar/DSA_Problems/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/DurvishKumar/DSA_Problems/tree/master/0204-count-primes) |
 | [1903-largest-odd-number-in-string](https://github.com/DurvishKumar/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -340,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DurvishKumar/DSA_Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DurvishKumar/DSA_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
