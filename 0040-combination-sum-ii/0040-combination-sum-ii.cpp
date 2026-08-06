@@ -2,8 +2,7 @@ class Solution {
 public:
     void helper(int ind, int target, vector<int>& candidates, vector<vector<int>>& ans, vector<int>& ds, int n){
         if(target == 0){
-            if(target == 0)
-                ans.push_back(ds);
+            ans.push_back(ds);
             return;
         }
         for(int i = ind; i < n; i++){
