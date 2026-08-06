@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DurvishKumar/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DurvishKumar/DSA_Problems/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/DurvishKumar/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DurvishKumar/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/DurvishKumar/DSA_Problems/tree/master/0152-maximum-product-subarray) |
@@ -360,8 +361,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DurvishKumar/DSA_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/DurvishKumar/DSA_Problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DurvishKumar/DSA_Problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/DurvishKumar/DSA_Problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
