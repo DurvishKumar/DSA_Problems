@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DurvishKumar/DSA_Problems/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/DurvishKumar/DSA_Problems/tree/master/1175-prime-arrangements) |
 | [1903-largest-odd-number-in-string](https://github.com/DurvishKumar/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DurvishKumar/DSA_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DurvishKumar/DSA_Problems/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DurvishKumar/DSA_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
